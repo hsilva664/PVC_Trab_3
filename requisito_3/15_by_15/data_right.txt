@@ -1,0 +1,62 @@
+Ground truth
+
+W3 = 13
+Book Width = 18
+Cube = 42
+Chessboard = 33
+Bottle = 25
+Runner = 110
+
+Translation_setting_1
+
+W3 = 14.62
+Book Width = 27.68
+Cube = 57.95
+Chessboard = 44.27
+Bottle = 27.32
+Runner = 146.51
+
+Translation_setting_2
+
+W3 = 18.13
+Book Width = 20.22
+Cube = 51.47
+Chessboard = 43.38
+Bottle = 28.56
+Runner = 165.23
+
+Translation_setting_3
+
+W3 = 15.26
+Book Width = 18.25
+Cube = 68.39
+Chessboard = 42.70
+Bottle = 26.54
+Runner = 166.32
+
+Rotation_setting_1
+
+W3 = 17.78
+Book Width = 22.83
+Cube = 46.32
+Chessboard = 37.97
+Bottle = 53.45
+Runner = 163.82
+
+Close_setting_1
+
+W3 = 157.20
+Book Width = 15.15
+Cube = 149.70
+Chessboard = 35.99
+Bottle = 28.01
+Runner = 183.59
+
+Far_setting_1
+
+W3 = 11.91
+Book Width = 15.03
+Cube = 54.96
+Chessboard = 33.79
+Bottle = 22.00
+Runner = 123.73

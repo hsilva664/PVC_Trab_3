@@ -1,0 +1,9 @@
+Plant
+
+Z mais proximo: 1.0cm
+Z mais distante: 300.0cm
+
+Baby
+
+Z mais proximo: 1.0cm
+Z mais distante: 300.0cm

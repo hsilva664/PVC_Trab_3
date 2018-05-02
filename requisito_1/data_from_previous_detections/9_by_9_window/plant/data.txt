@@ -1,0 +1,2 @@
+Z mais proximo: 0.9cm
+Z mais distante: 300.0cm
